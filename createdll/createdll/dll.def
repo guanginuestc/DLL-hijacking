@@ -1,0 +1,3 @@
+LIBRARY createdll
+EXPORTS
+GetModuleHandleEx=GetModuleHandl
