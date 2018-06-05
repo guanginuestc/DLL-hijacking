@@ -18,9 +18,21 @@
     <ClCompile Include="mydll.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MySocket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Shell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mydll.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Shell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MySocket.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
